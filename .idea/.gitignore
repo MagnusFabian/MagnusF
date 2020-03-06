@@ -1,0 +1,5 @@
+# Default ignored files
+/workspace.xml
+/../out/test/JUnitDemo/com/company/CalculatorTest.class
+/../out/production/JUnitDemo/com/company/Calculator.class
+/modules.xml
